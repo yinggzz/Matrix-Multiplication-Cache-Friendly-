@@ -1,7 +1,3 @@
-# Ying Zhou 260941617
-# TODO: ADD OTHER COMMENTS YOU HAVE HERE AT THE TOP OF THIS FILE
-# TODO: SEE LABELS FOR PROCEDURES YOU MUST IMPLEMENT AT THE BOTTOM OF THIS FILE
-
 .data
 TestNumber:	.word 0		# TODO: Which test to run!
 				# 0 compare matrices stored in files Afname and Bfname
