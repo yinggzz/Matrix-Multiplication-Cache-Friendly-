@@ -3,8 +3,11 @@ Multiply two square n × n matrices of single precision floating point numbers, 
 
 # Description
 The code lets you run 3 different tests by changing TestNumber in the .data section at the top of the code.
+
 • Test 0 will help you test the first objectives (matrix subtraction and Frobeneous norm).
+
 • Test 1 will help you checking your matrix multiply-and-add procedure. It allocates mem- ory on the heap for 4 matrices (one being the solution) and loads test matrix data from file names specified in the data segment.
+
 • Test 2 will hep you compare different matrix multiply-and-add procedures.
 
 # Getting Started
